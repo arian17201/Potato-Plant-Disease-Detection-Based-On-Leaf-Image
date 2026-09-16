@@ -111,6 +111,9 @@ Run the following command to install the required Python libraries:
 ```bash
 pip install flask tensorflow pillow numpy
 ```
+```bash
+pip install -r requirements.txt
+```
 
 ### 3. Launch the Server
 Navigate to the project folder and start the Flask application:
