@@ -53,7 +53,7 @@ This application provides a fast, user-friendly interface for farmers, researche
 ## 📁 Project Structure
 
 ```text
-potato_disease_app/
+Potato-Plant-Disease-Detection-Based-On-Leaf-Image/
 │
 ├── model.h5              # Trained Keras/TensorFlow model file
 ├── app.py                # Flask server script (API & routes)
